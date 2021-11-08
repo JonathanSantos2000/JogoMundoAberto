@@ -1,0 +1,15 @@
+Player
+0026FF
+
+Flor 
+6D7F3F
+ARBUSTO 
+3F4971
+
+Portais mapas
+mp1 para mp2
+01DF00
+mp1 para mp6
+01DF01
+mp1 para mp7
+01DF00
